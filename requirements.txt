@@ -1,0 +1,5 @@
+sqlalchemy
+unittest
+kafka
+Click
+psycopg2-binary
